@@ -1,0 +1,25 @@
+{
+  "name": "aragorn",
+  "version": "1.0.0",
+  "description": "从亚马逊，京东等图书网站获取书目信息，并整理给买书者以参考，比价购买。",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csrgxtu/Aragorn.git"
+  },
+  "keywords": [
+    "比价购买"
+  ],
+  "author": "Archer Reilly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/csrgxtu/Aragorn/issues"
+  },
+  "homepage": "https://github.com/csrgxtu/Aragorn#readme"
+}
